@@ -8,7 +8,7 @@
 
 | Project | Description | Status |
 |---|---|---|
-| [tf-console](https://github.com/tilefab/tf-console) | Interactive console: concurrent logs, progress bars and a readline-style prompt | 🚧 In progress |
+| [tilefab](https://github.com/tilefab/tilefab) | Interactive console: concurrent logs, progress bars and a readline-style prompt | 🚧 In progress |
 
 ## Principles
 
